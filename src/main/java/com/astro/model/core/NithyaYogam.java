@@ -1,0 +1,35 @@
+package com.astro.model.core;
+
+/**
+ * The twenty-seven Nithya Yogas.
+ */
+public enum NithyaYogam {
+  VISHKAMBHA,
+  PREETI,
+  AYUSHMAN,
+  SAUBHAGYA,
+  SHOBHANA,
+  ATIGANDA,
+  SUKARMAN,
+  DHRITI,
+  SHULA,
+  GANDA,
+  VRIDDHI,
+  DHARMA,
+  SADHYA,
+  SHUBHA,
+  SHUKLA,
+  BRAHMA,
+  INDRA,
+  VAIDHRITI,
+  VISHESH,
+  PRITI,
+  AYUSMAN,
+  SAUBHAGYA_DUPLICATE,
+  SHOBHANA_DUPLICATE,
+  ATIGANDA_DUPLICATE,
+  SUKARMAN_DUPLICATE,
+  DHRITI_DUPLICATE,
+  SHULA_DUPLICATE;
+}
+
